@@ -1,0 +1,5 @@
+0 Abuse
+1 Assault
+2 Normal
+3 RoadAccidents
+4 Vandalism
